@@ -10,4 +10,7 @@ module.exports = {
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
   ],
+  rules: {
+    "sort-imports": "error",
+  },
 };
