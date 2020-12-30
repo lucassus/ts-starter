@@ -11,6 +11,7 @@ module.exports = {
     "plugin:prettier/recommended",
   ],
   rules: {
+    "object-shorthand": "error",
     "sort-imports": "error",
   },
 };
